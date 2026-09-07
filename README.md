@@ -59,8 +59,8 @@ Estudio de diseño digital enfocado en activos para redes sociales, identidades 
 
 **Creadora de Starbucks Web App**: Aplicación full-stack modular y API REST desarrollada bajo arquitectura MVC con Node.js, Express y MongoDB Atlas.
 
-**La CLI & API de Starbucks**: Consume y gestiona el menú del sistema directamente desde la terminal:
+**La CLI & API de Starbucks**: Interactúa con la infraestructura de la aplicación directamente desde la terminal:
 ```bash
-curl -X GET http://localhost:3000/api/menu               # obtener menú en vivo
-curl -X GET http://localhost:3000/api/menu?category=Frias # filtrar bebidas frías
-curl -X POST http://localhost:3000/api/menu -d '...'      # registrar nuevo producto
+starbucks find --category frias --limit 10   # consultar productos del menú
+starbucks lock --item <id>                   # reservar ítem en base de datos
+starbucks run --env production              # iniciar servidor de la API

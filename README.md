@@ -2,10 +2,6 @@
 
 <img width="268" height="334" alt="20627DFE-D896-405E-A187-7FBD4285BA20_1_105_c" src="https://github.com/user-attachments/assets/450dd16c-28a3-45aa-bdd8-07674d0ffc7f" width="380px" style="border-radius: 8px; border: 1px solid #222;" alt="Valentina Hernandez Tramontin" />
 <br/><br/>
-Contacto
-
-[LinkedIn](https://www.linkedin.com/in/valentina-hern%C3%A1ndez-4a68302b9/) · [GitHub](https://github.com/valentinaht01) ·[Portafolio](https://portafolio-silk-beta-19.vercel.app/)
-  <br /><br />
 
   <table align="center" width="90%">
     <tr>

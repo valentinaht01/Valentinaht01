@@ -4,96 +4,99 @@
 
 <br/><br/>
 
-  <table align="center" width="90%">
-    <tr>
-      <td align="center" style="background-color: #080808; border: 1px solid #1c1c1c; padding: 22px; border-radius: 6px;">
-        <p align="center" style="color: #d4d4d4; font-family: monospace; font-size: 13.5px; line-height: 1.7; margin: 0;">
-          <code> Transformé la dirección creativa y el código en una práctica digital moderna.</code><br /><br />
-          Todo consiste en aplicar precisión a cada capa: desde la arquitectura y los esquemas de datos hasta el diseño de interfaces al píxel.<br />
-          Construyendo experiencias digitales, plataformas web y sistemas de identidad visual, un proyecto a la vez.<br /><br />
-          <b>Protege tu visión, mantén la línea y construye cosas que perduren.</b>
-        </p>
-      </td>
-    </tr>
-  </table>
+# Hi, I'm Valentina 👋
 
-</div>
+### UX/UI Designer & Front-End Developer
 
-<br />
+I’m a graphic designer focused on creating **visual identities, digital experiences and responsive interfaces** that combine design and technology.
+
+I enjoy turning ideas into clean, functional and visually engaging digital products.
 
 ---
 
-## Ahora
+## ✦ What I do
 
-* ☕ **Starbucks Web Application**: Aplicación web modular full-stack desarrollada con **Node.js**, **Express** y **MongoDB Atlas**. API dinámica para renderizar elementos del menú, filtros por categoría y almacenamiento persistente mediante arquitectura MVC con Mongoose.
-* 🎨 **hue.studioc**: Fundadora y Directora de Diseño. Desarrollo de branding, identidad digital, sistemas visuales y dirección creativa para marcas modernas.
-* 🍪 **Miel y Suspiros**: Desarrollo de identidad visual, estrategia digital y sistemas de contenido para una marca de repostería especializada.
-* 🖥️ **UX/UI & Digital Experiences**: Exploración de interfaces, sistemas de diseño y experiencias digitales que conectan estrategia, estética y funcionalidad.
+🎨 **Graphic Design**
+Brand identity, visual systems, digital design and creative direction.
 
----
+🖥️ **UX/UI Design**
+User interfaces, responsive layouts, design systems and prototypes.
 
-## Stack Tecnológico y Habilidades Clave
-
-### Ingeniería y Sistemas Web
-
-* **Backend y Bases de Datos**: Node.js · Express.js · MongoDB Atlas · Mongoose (ODM) · Arquitectura API RESTful
-* **Desarrollo Frontend**: JavaScript (ES6+) · Manipulación del DOM · HTML5 · CSS3
-* **Herramientas y Flujo de Trabajo**: Git · GitHub · Postman / cURL · Nodemon · Dotenv
-
-### Diseño y Experiencias Digitales
-
-* **UX/UI**: Diseño de interfaces · Wireframing · User Flows · Prototipado · Responsive Design
-* **Sistemas de Diseño**: Identidad de Marca · UI Systems · Componentes · Dirección Visual
-* **Diseño Gráfico**: Branding · Dirección de Arte · Diseño Editorial · Contenido Digital
-* **Creative Technology**: Exploración de herramientas digitales e inteligencia artificial aplicada a procesos creativos
+💻 **Front-End Development**
+Responsive websites and interactive experiences built with modern web technologies.
 
 ---
 
-## Proyectos y Código Abierto
+## 🛠️ Tools & Technologies
 
-### ☕ [starbucks-app](https://github.com/valentinaht01/starbucks-app)
+**Design**
 
-API RESTful modular y aplicación web interactiva inspirada en Starbucks.
+`Figma` · `Illustrator` · `Photoshop` · `InDesign` · `Canva`
 
-* Arquitectura MVC completa (`src/routes`, `src/controllers`, `src/models`, `src/config`).
-* Conexión persistente a base de datos en la nube con **MongoDB Atlas**.
-* Renderizado dinámico del DOM en el frontend mediante peticiones `fetch`.
-* Gestión de productos mediante API y almacenamiento persistente.
+**Front-End**
 
-### 🎨 [hue.studioc](https://instagram.com/hue.studioc)
+`HTML` · `CSS` · `JavaScript` · `React`
 
-Estudio de diseño digital enfocado en **branding, dirección creativa, identidad visual y sistemas gráficos** para marcas modernas.
+**Back-End & Other**
 
-### 🪞 Iris — Más allá de la mirada
-
-Proyecto digital que combina **diseño de experiencia, interfaz y desarrollo**, explorando la relación entre tecnología, accesibilidad y comunicación visual.
+`Node.js` · `Express` · `MongoDB` · `Git` · `GitHub`
 
 ---
 
-## Dirección Creativa & Desarrollo
+## ✦ Featured Projects
 
-**Fundadora @ hue.studioc**: Estudio de dirección creativa e identidad digital para marcas modernas. Desarrollo de sistemas visuales, activos digitales y experiencias de marca de extremo a extremo.
+### ☕ Starbucks — Web Redesign
 
-**Creadora de Starbucks Web App**: Aplicación full-stack modular y API REST desarrollada bajo arquitectura MVC con Node.js, Express y MongoDB Atlas.
+UX/UI and front-end redesign focused on improving the visual experience, interface structure and responsiveness.
 
-**Diseñadora & Creative Developer**: Explorando la intersección entre diseño gráfico, UX/UI, desarrollo frontend e inteligencia artificial para construir experiencias digitales con intención.
+**HTML · CSS · JavaScript**
+
+→ [View project](https://github.com/valentinaht01/Starbuck-redise-o)
+---
+
+### 🎨 HUE STUDIO
+
+Creative studio website developed around the visual identity of HUE STUDIO, combining branding, digital design and front-end development.
+
+**HTML · CSS · JavaScript · React**
+
+→ [View project](#)
+→ [View live demo](#)
 
 ---
 
-## CLI & API — Starbucks
+### 🍰 Miel y Suspiros
 
-Interactúa con la infraestructura de la aplicación directamente desde la terminal:
+Digital experience for a dessert brand, combining visual identity, product presentation and e-commerce focused interface design.
 
-```bash
-starbucks find --category frias --limit 10   # consultar productos del menú
-starbucks lock --item <id>                   # reservar ítem en base de datos
-starbucks run --env production               # iniciar servidor de la API
-```
+**React · CSS · JavaScript**
+
+→ [View project](#)
+→ [View live demo](#)
 
 ---
 
-<div align="center">
+### 👁️ Iris — Más allá de la mirada
 
-`DESIGN × CODE × SYSTEMS`
+Mobile application developed as an exploration of technology, accessibility and digital experiences.
 
-</div>
+**Kotlin**
+
+→ [View project](https://github.com/valentinaht01/Iris-Mas-alla-de-la-Mirada)
+
+---
+
+## ✦ Currently
+
+* Building digital experiences that combine **design + technology**
+* Developing projects with **React**
+* Expanding my UX/UI portfolio
+* Working on creative projects through **HUE STUDIO**
+
+---
+
+## 📬 Let's connect
+
+🌐 **Portfolio:** https://portafolio-silk-beta-19.vercel.app/
+
+💼 **GitHub:** https://github.com/valentinaht01

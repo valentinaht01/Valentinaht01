@@ -72,17 +72,6 @@ HUE-STUDIO/
 │   └── fonts/
 │
 └── README.md
-```
-
----
-
-## 🌐 Live Website
-
-**Coming soon**
-
-The live version of HUE STUDIO will be available here:
-
-→ [hue.online](#)
 
 ---
 
